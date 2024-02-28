@@ -10,7 +10,7 @@
     "mkdirp": "^1.0.4",
     "promise.allsettled": "^1.0.0",
     "request": "2.88.0",
-    "rimraf": "^2.6.3",
+    "rimraf": "^2.7.1",
     "yauzl": "^2.10.0"
   }
 }
