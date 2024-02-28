@@ -8,7 +8,7 @@
     "invariant": "2.2.4",
     "lodash": "4.17.19",
     "mkdirp": "^1.0.4",
-    "promise.allsettled": "^1.0.0",
+    "promise.allsettled": "^1.0.7",
     "request": "2.88.0",
     "rimraf": "^2.6.3",
     "yauzl": "^2.10.0"
