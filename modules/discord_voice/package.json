@@ -30,7 +30,7 @@
     "path-exists": "3.0.0",
     "path-key": "2.0.1",
     "pseudomap": "1.0.2",
-    "cliui": "4.1.0",
+    "cliui": "9.0.0",
     "require-main-filename": "1.0.1",
     "set-blocking": "2.0.0",
     "shebang-command": "1.2.0",
