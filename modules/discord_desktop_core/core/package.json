@@ -9,8 +9,8 @@
     "lodash": "4.17.19",
     "mkdirp": "^1.0.4",
     "promise.allsettled": "^1.0.0",
-    "request": "2.88.0",
-    "rimraf": "^2.6.3",
+    "request": "2.88.2",
+    "rimraf": "^4.3.1",
     "yauzl": "^2.10.0"
   }
 }
