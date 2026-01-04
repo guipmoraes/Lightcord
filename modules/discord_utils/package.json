@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "execa": "^4.0.1",
-    "superagent": "^5.2.2"
+    "superagent": "^10.2.2"
   },
   "devDependencies": {},
   "scripts": {
